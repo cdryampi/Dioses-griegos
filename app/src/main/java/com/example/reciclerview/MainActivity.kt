@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity() {
 
         initRecyclerView()
     }
-
+    // Inicializar el RecyclerView
     fun initRecyclerView(){
 
         val recyclerView = binding.reciclerMain
